@@ -273,10 +273,10 @@ User_Registration_Screen As screen:
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Size: =26.25
-        Text: ="Button"
+        Text: ="Register"
         VerticalAlign: =VerticalAlign.Top
-        Width: =221
-        X: =337
+        Width: =308
+        X: =261
         Y: =835
         ZIndex: =10
 

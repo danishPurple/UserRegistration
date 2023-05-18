@@ -5,7 +5,14 @@
       "ControlPropertyState": [
         "OnSelect",
         "AutoDisableOnSelect",
-        "Text",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "\"Button\"",
+          "InvariantPropertyName": "Text",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Tooltip",
         "ContentLanguage",
         "BorderColor",
